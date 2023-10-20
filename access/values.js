@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "17.04.2005"; // Дата рождения
-var fullname = "Хоміч Матвій Сергіович" // ФИО
+var fullname = "Хоміч Матвій Сергійович" // ФИО
 var name = "Матвій" // Имя
 
 // Паспорт
